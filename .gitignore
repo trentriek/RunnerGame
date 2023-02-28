@@ -1,0 +1,8 @@
+Binaries/
+Intermediate/
+Saved/
+Build/
+DerivedDataCache/ 
+.vs/
+Content/Scanned3DPeoplePack/
+*_BuiltData*
